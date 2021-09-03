@@ -1,0 +1,44 @@
+.image2{
+	width: 25px;
+	height: 25px;
+}
+.premier{
+	background-color: #9E9E9E;
+	width: 190px;
+    text-align: center;
+    margin-top: -110px;
+    position: absolute;
+    margin-left: 22px;
+}
+.azer{
+	padding-bottom: 50px;
+}
+.text{
+	font-size: 11px;
+}
+.mille{
+	text-align: center;
+	margin-top: 10px;
+}
+.titre{
+	text-align: right;
+}
+
+
+
+@media (max-width:800px)
+{
+.azer{
+	align-items: center;
+	width: 100%;
+	padding-bottom: 25px;
+	margin-top: 46px;
+}
+.text{
+	font-size: 11px;
+	text-align: center;
+}
+.titre{
+	text-align:center;
+}
+}
